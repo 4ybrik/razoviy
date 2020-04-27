@@ -6,7 +6,10 @@
 	  	<nationality>Россия</nationality>
 	  	<age>18</age>
 	  	<potentional_cache>4000$</potentional_cache>
-	  	<language_learn>C++/C</language_learn>
+	  	<language_learn>
+	  		<language>C++</language>
+	  		<language>C</language>
+	  	</language_learn>
  	 </human>
 	 <human id="2">
 	  	<name>Анастасия </name>
@@ -14,7 +17,10 @@
 	  	<nationality>Беларусь</nationality>
 	  	<age>19</age>
 	  	<potentional_cache>8500$</potentional_cache>
-	  	<language_learn>Java/php</language_learn>
+	  	<language_learn>
+	  		<language>Java</language>
+	  		<language>php</language>
+	  	</language_learn>
 	 </human>
 	 <human id="3">
 	  	<name>Мария</name>
@@ -22,7 +28,10 @@
 	  	<nationality>Беларусь</nationality>
 	  	<age>20</age>
 	  	<potentional_cache>7500$</potentional_cache>
-	  	<language_learn>JavaScript/Ruby</language_learn>
+	  	<language_learn>
+	  		<language>JavaScript</language>
+	  		<language>Ruby</language>
+	  	</language_learn>
  	 </human>
  	 <human id="3">
 	  	<name>Артем</name>
@@ -30,6 +39,9 @@
 	  	<nationality>Россия</nationality>
 	 	<age>24</age>
 	  	<potentional_cache>1400$</potentional_cache>
-	  	<language_learn>С#/Pascal</language_learn>
+	  	<language_learn>
+	  		<language>C#</language>
+	  		<language>Pascal</language>
+	  	</language_learn>
  	 </human>
 	</people>
