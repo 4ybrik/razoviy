@@ -1,0 +1,53 @@
+{
+  "Proffesion": "IT",
+  "Project": "Microverse",
+  "formed": 2020,
+  "Developer": "Maxim Verbitskiy",
+  "active": true,
+  "members": [
+    {
+      "name": "Василий",
+      "surname": "Дробышевский",
+      "nationality": "Россия",
+      "age": 18,
+      "potentional_cache": "4000$",
+      "languages": [
+        "C++",
+        "C"
+      ]
+    },
+    {
+      "name": "Анастасия",
+      "surname": "Станкевич",
+      "nationality": "Беларусь",
+      "age": 19,
+      "potentional_cache": "8500$",
+      "languages": [
+        "Java",
+        "php"
+      ]
+    },
+   {
+      "name": "Мария",
+      "surname": "Корытко",
+      "nationality": "Беларусь",
+      "age": 20,
+      "potentional_cache": "7500$",
+      "languages": [
+        "JavaScript",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Артем",
+      "surname": "Перетягин",
+      "nationality": "Россия",
+      "age": 24,
+      "potentional_cache": "1200$",
+      "languages": [
+        "C#",
+        "Pascal"
+      ]
+    },
+  ]
+}
