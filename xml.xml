@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<people>
+	 <human id="1">
+	  	<name>Василий</name>
+	  	<surname>Дробышевский</surname>
+	  	<nationality>Россия</nationality>
+	  	<age>18</age>
+	  	<potentional_cache>4000$</potentional_cache>
+	  	<language_learn>C++/C</language_learn>
+ 	 </human>
+	 <human id="2">
+	  	<name>Анастасия </name>
+	  	<surname>Станкевич</surname>
+	  	<nationality>Беларусь</nationality>
+	  	<age>19</age>
+	  	<potentional_cache>8500$</potentional_cache>
+	  	<language_learn>Java/php</language_learn>
+	 </human>
+	 <human id="3">
+	  	<name>Мария</name>
+	  	<surname>Корытко</surname>
+	  	<nationality>Беларусь</nationality>
+	  	<age>20</age>
+	  	<potentional_cache>7500$</potentional_cache>
+	  	<language_learn>JavaScript/Ruby</language_learn>
+ 	 </human>
+ 	 <human id="3">
+	  	<name>Артем</name>
+	  	<surname>Перетягин</surname>
+	  	<nationality>Россия</nationality>
+	 	<age>24</age>
+	  	<potentional_cache>1400$</potentional_cache>
+	  	<language_learn>С#/Pascal</language_learn>
+ 	 </human>
+	</people>
